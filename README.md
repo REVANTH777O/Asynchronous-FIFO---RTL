@@ -23,7 +23,6 @@ This project demonstrates the complete design and verification flow of an **Asyn
 - Pointer Comparison Logic
 
 ---
-
 # Features
 
 - ✔ 16-bit Data Width

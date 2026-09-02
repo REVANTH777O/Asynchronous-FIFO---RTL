@@ -6,7 +6,6 @@ This repository is designed not only to provide a working FIFO implementation bu
 
 ---
 # Project Objectives
-
 This project demonstrates the complete design and verification flow of an **Asynchronous FIFO**, including:
 
 - RTL Design using Verilog

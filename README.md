@@ -5,7 +5,6 @@ A complete implementation of an **Asynchronous FIFO (First-In First-Out)** using
 This repository is designed not only to provide a working FIFO implementation but also to help learners understand **how an asynchronous FIFO actually works internally**. Every major design block is explained from the RTL perspective, making this project suitable for **FPGA beginners, RTL Design Engineers, ASIC Design Engineers, and students preparing for VLSI interviews.**
 
 ---
-
 # Project Objectives
 
 This project demonstrates the complete design and verification flow of an **Asynchronous FIFO**, including:

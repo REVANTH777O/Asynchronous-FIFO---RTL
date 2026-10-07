@@ -20,7 +20,6 @@ This project demonstrates the complete design and verification flow of an **Asyn
 - Synchronizer Design
 - Pointer Comparison Logic
 
-
 ---
 # Features
 
